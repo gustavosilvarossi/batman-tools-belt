@@ -1,21 +1,19 @@
 {
-  "description": "Your batman tool belt equipped with Javascript codes",
-  "main": "./src/index.js",
+  "name": "batman-tools-belt",
   "version": "1.0.6",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gustavosilvarossi/utility-belt.git"
+    "url": "git+https://github.com/gustavosilvarossi/batman-tools-belt.git"
   },
   "author": "gustavosrossi <gustavo.rossi@outlook.com.br>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gustavosilvarossi/utility-belt/issues"
+    "url": "https://github.com/gustavosilvarossi/batman-tools-belt/issues"
   },
-  "homepage": "https://github.com/gustavosilvarossi/utility-belt#readme",
-  "devDependencies": {
-    "webpack": "^5.75.0"
-  }
+  "homepage": "https://github.com/gustavosilvarossi/batman-tools-belt#readme"
 }
