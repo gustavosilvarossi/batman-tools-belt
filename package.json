@@ -1,6 +1,7 @@
 {
   "description": "Your batman tool belt equipped with Javascript codes",
   "main": "./src/index.js",
+  "version": "1.0.6",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
