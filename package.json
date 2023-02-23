@@ -1,6 +1,6 @@
 {
   "name": "batman-tools-belt",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Your batman tool belt equipped with Javascript codes",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
