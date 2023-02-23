@@ -1,6 +1,6 @@
 {
-  "name": "utility-belt",
-  "version": "1.0.0",
+  "name": "batman-tools-belt",
+  "version": "1.0.1",
   "description": "Your batman tool belt equipped with Javascript codes",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/gustavosilvarossi/utility-belt/issues"
   },
-  "homepage": "https://github.com/gustavosilvarossi/utility-belt#readme"
+  "homepage": "https://github.com/gustavosilvarossi/utility-belt#readme",
+  "files": [
+    "LICENSE",
+    "index.js"
+  ]
 }
